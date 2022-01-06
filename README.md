@@ -1,6 +1,6 @@
 
 # intellij git trouble QandA
-동료들에게 Git 사용과 관련된 문제에 대해 비슷한 질문을 반복해서 받는 것 같습니다. Q&A 들을 간단히 정리해 둡니다. 
+동료들에게 Git 사용과 관련된 문제에 대해 비슷한 질문을 반복해서 받는 것 같습니다. 질문 받은 것들에 대해 Q&A 들을 간단히 정리해 둡니다.  
 
 ※ 저희팀은 IntelliJ 기반 Git GUI를 사용합니다. 그래서 git command 대신, IntelliJ 메뉴를 설명합니다.
 
