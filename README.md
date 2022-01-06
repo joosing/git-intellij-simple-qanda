@@ -19,7 +19,7 @@
 [Q : Reset 후 원격 저장소에 Push 하면 Push Reject 되네. Merge나 Rebase 하면 자꾸 Reset한 걸 다시 가져와... 내걸로 원격 저장소를 덮어쓰고 싶은데](https://github.com/Jsing/intellij-git-trouble-qanda/blob/47c52abae81961bcc09ce79087a732af0c023c3f/%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0/Q%20:%20Reset%20%ED%9B%84%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%20Push%20%ED%95%98%EB%A9%B4%20Push%20Reject%20%EB%90%98%EB%84%A4.%20Merge%EB%82%98%20Rebase%20%ED%95%98%EB%A9%B4%20%EC%9E%90%EA%BE%B8%20Reset%ED%95%9C%20%EA%B1%B8%20%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%A0%B8%EC%99%80...%20%EB%82%B4%EA%B1%B8%EB%A1%9C%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A5%BC%20%EB%8D%AE%EC%96%B4%EC%93%B0%EA%B3%A0%20%EC%8B%B6%EC%9D%80%EB%8D%B0.md)  
 
 # 버전관리
-
+[Q : 지금 개발중이라 빌드가 안되는 상태인데, 잠시 다른 브랜치로 이동해서 작업하고 싶은데, 이걸 커밋해 두기는 애매하네 어떻하지? ](https://github.com/Jsing/intellij-git-trouble-qanda/blob/c9bdc972a185e98da479730ee5cf90880ff6d28a/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC/Q%20:%20%EC%A7%80%EA%B8%88%20%EA%B0%9C%EB%B0%9C%EC%A4%91%EC%9D%B4%EB%9D%BC%20%EB%B9%8C%EB%93%9C%EA%B0%80%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%83%81%ED%83%9C%EC%9D%B8%EB%8D%B0,%20%EC%9E%A0%EC%8B%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%A1%9C%20%EC%9D%B4%EB%8F%99%ED%95%B4%EC%84%9C%20%EC%9E%91%EC%97%85%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%EB%8D%B0,%20%EC%9D%B4%EA%B1%B8%20%EC%BB%A4%EB%B0%8B%ED%95%B4%20%EB%91%90%EA%B8%B0%EB%8A%94%20%EC%95%A0%EB%A7%A4%ED%95%98%EB%84%A4%20%EC%96%B4%EB%96%BB%ED%95%98%EC%A7%80%3F.md)  
 
 # 커밋 수정하기
 - Rebase -i 
