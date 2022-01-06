@@ -1,3 +1,4 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsing%2Fintellij-git-trouble-qanda&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 # intellij git trouble QandA
 동료들에게 Git 사용과 관련된 문제에 대해 비슷한 질문을 반복해서 받는 것 같습니다. Q&A 들을 간단히 정리해 둡니다. 
 
