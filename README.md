@@ -4,7 +4,8 @@
 ※ 저희팀은 IntelliJ 기반 Git GUI를 사용합니다. 그래서 git command 대신, IntelliJ 메뉴를 설명합니다.
 
 # 버전활용
-[Q : A소스 코드 N라인 누가 마지막에 수정한거지?](https://github.com/Jsing/intellij-git-trouble-qanda/blob/2d054e70d253cf3aa4f5e1d97cefb12d279f9a44/%EB%B2%84%EC%A0%84%ED%99%9C%EC%9A%A9/A%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C%20N%EB%9D%BC%EC%9D%B8%20%EB%88%84%EA%B0%80%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%97%90%20%EC%88%98%EC%A0%95%ED%95%9C%EA%B1%B0%EC%A7%80%3F.md)  
+[Q : A소스 코드 N라인 누가 마지막에 수정한거지?](https://github.com/Jsing/intellij-git-trouble-qanda/blob/2d054e70d253cf3aa4f5e1d97cefb12d279f9a44/%EB%B2%84%EC%A0%84%ED%99%9C%EC%9A%A9/A%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C%20N%EB%9D%BC%EC%9D%B8%20%EB%88%84%EA%B0%80%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%97%90%20%EC%88%98%EC%A0%95%ED%95%9C%EA%B1%B0%EC%A7%80%3F.md)   
+[Q : 특정 커밋에서 발생한 변경사항을 다른 브랜치로 옮기고 싶어](https://github.com/Jsing/intellij-git-trouble-qanda/blob/13a89432c02bbcd6fe797d67dce1c44ef121c7ed/%EB%B2%84%EC%A0%84%ED%99%9C%EC%9A%A9/Q%20:%20%ED%8A%B9%EC%A0%95%20%EC%BB%A4%EB%B0%8B%EC%97%90%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%95%9C%20%EB%B3%80%EA%B2%BD%EC%82%AC%ED%95%AD%EC%9D%84%20%EB%8B%A4%EB%A5%B8%20%EB%B8%8C%EB%9E%9C%EC%B9%98%EB%A1%9C%20%EC%98%AE%EA%B8%B0%EA%B3%A0%20%EC%8B%B6%EC%96%B4.md)  
 
 # 충돌
 [Q : 충돌이 왜 나는 거야?](https://github.com/Jsing/intellij-git-trouble-qanda/blob/1bae99cc5506079265b95accf435155d93811864/%EC%B6%A9%EB%8F%8C/Q%20:%20%EC%B6%A9%EB%8F%8C%EC%9D%B4%20%EC%99%9C%20%EB%82%98%EB%8A%94%20%EA%B1%B0%EC%95%BC%3F.md)  
