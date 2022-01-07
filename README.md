@@ -1,4 +1,4 @@
-![git+intellij_sized](https://user-images.githubusercontent.com/34666301/148475633-fa8f8506-c612-4688-99eb-6b37e7f64b76.png)
+![git+intellij_sized2](https://user-images.githubusercontent.com/34666301/148475812-046ba69c-30be-4df2-994f-7d3071916bac.png)
 
 # intellij-git-trouble-QandA
 동료들에게 Git 사용과 관련된 문제에 대해 비슷한 질문을 반복해서 받는 것 같습니다. 질문 받은 것들에 대해 Q&A를 간단히 정리해 둡니다. 저장소는 다음과 같은 지향점을 가지고 정리하였습니다.  
