@@ -1,6 +1,6 @@
 ![git+intellij_sized2](https://user-images.githubusercontent.com/34666301/148475812-046ba69c-30be-4df2-994f-7d3071916bac.png)
 
-# git-intellij-trouble-QandA
+# git-intellij-simple-QandA
 동료들에게 Git 사용과 관련된 문제에 대해 비슷한 질문을 반복해서 받는 것 같습니다. 질문 받은 것들에 대해 Q&A를 간단히 정리해 둡니다. 저장소는 다음과 같은 지향점을 가지고 정리하였습니다.  
 
 > 1. Git 사용중 마주하는 문제를 중심으로 해결 방법을 간단히 기술합니다.  
