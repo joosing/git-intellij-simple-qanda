@@ -1,4 +1,5 @@
-**Q : Amend 해서 하나로 합치기 전으로 다시 돌아가고 싶은데?**    
+**Q : Amend 해서 하나로 합치기 전으로 다시 돌아가고 싶은데?**   
+
 A : Intellij 에서 Teminal 열고 (Alt + F12) 
   1) git reflog (head reference history)
   2) amend 이전 커밋 해쉬값을 확인
