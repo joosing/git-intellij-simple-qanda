@@ -2,7 +2,7 @@
 
 A : git command line 을 활용해야 할 것 같아요. 다음을 따라해 봅니다.
 
-> 1. 우선 삭제된 파일이 있었던 경로를 확인합니다. (Project > 디렉토리 우클릭 > Copy Path/Reference > Path From Content Root)
+> 1. 우선 삭제된 파일이 있었던 경로를 확인합니다. (Project > 삭제된 파일의 디렉토리 우클릭 > Copy Path/Reference > Path From Content Root)
 
 ![](https://velog.velcdn.com/images/joosing/post/de27ad63-46e2-4873-ba19-77516dba36c8/image.png)
 
@@ -19,12 +19,12 @@ A : git command line 을 활용해야 할 것 같아요. 다음을 따라해 봅
 ```java
 git log --name-status -- src/main/java/com/example/programming/test/MyTest.java
 ```
-> 5. 다음과 같이 해당 파일의 이력만 따로 출력 됩니다. 엔터를 치면서 이력을 확인하며 D(Delete) 라고 표시된 커밋을 찾습니다.
+> 5. 아래와 같이 해당 파일의 이력이 최신 순서로 출력 됩니다. 엔터를 치면서 이력을 확인하며 D(Delete) 라고 표시된 커밋을 찾습니다.
 
 ![](https://velog.velcdn.com/images/joosing/post/db2841c3-4e3e-4520-ade8-e15621bc058c/image.png)
 
-> 6. 해당 커밋의 해쉬 값을 복사하고 Q를 입력하여 log 확인 모드(?)에서 빠져나옵니다. 
-> 7. 해당 커밋을 Revert 합니다. 아래와 같이 명령을 입력합니다.
+> 6. 삭제한 커밋의 해쉬 값을 복사하고 Q를 입력하여 log 확인 모드(?)에서 빠져나옵니다. 
+> 7. 삭제한 커밋을 Revert 합니다. 아래와 같이 명령을 입력합니다.
 
 ```java
 git revert 2154c61839bbb870c9cf8080986b82e067917da2 --no-edit
@@ -33,3 +33,4 @@ git revert 2154c61839bbb870c9cf8080986b82e067917da2 --no-edit
 > 8. 삭제된 커밋이 되돌려집니다. 아래 예시는 .../test/MyTest.java 경로에 있던 파일이 .../pojo/MyTest.java 로 옮겨진 실수가 복구된 예시입니다. 
 
 ![](https://velog.velcdn.com/images/joosing/post/8ae83fee-0223-47aa-bcc7-70c9475f843a/image.png)
+
